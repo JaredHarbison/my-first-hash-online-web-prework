@@ -1,6 +1,6 @@
 def my_hash
 
-  my_hash = {key1 => value1, key2 => value2}
+  my_hash = {"key 1" => "value1", key2 => value2}
 end
 
 
